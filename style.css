@@ -1,0 +1,21 @@
+html {
+    background-color: blue;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.container {
+    border: 1px solid white;
+    padding: 0 2rem;
+}
+.carousel {
+    border: 1px solid white;
+    margin: 1rem auto;
+}
+img {
+    max-width: 250px;
+    margin: 0 auto;
+}
